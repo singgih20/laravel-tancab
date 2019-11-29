@@ -1,0 +1,191 @@
+body{
+  color:#fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.hitam label{
+  color:#3E3E3E;
+}
+.home-navbar{
+  background-color: #17D885;
+}
+
+
+.home-navbar a{
+  color:#fff !important;
+}
+
+.pelajari{
+   width: 225px;
+   background-color: #17D885;
+   text-decoration: none;
+   color:white;
+   border-radius: 15px;
+}
+
+.pelajari:hover{
+  background-color: #11985E;
+  color:white;
+}
+
+#senyum {
+  background-color:transparent;
+  background-image: url('/images/senyum.jpg');
+  background-size: cover;
+  min-height: 540px;
+  width: 100%;
+}
+
+.tancab-mobile{
+  height: 470px;
+  width: 100%;
+  background-color: #17D885;
+}
+
+.about-us{
+  background-color: #17D885;
+}
+
+.service h1{
+  color: #17D885;
+}
+
+.footer{
+  background-color: #05092E ;
+  width: 100%;
+  height: 350px;
+}
+
+.card-body p, h2{
+  color:black;
+}
+
+.btn-investasi{
+  background-color: #17D885;
+  color:white;
+  min-width: 275px;
+  width: auto;
+  text-decoration: none;
+}
+
+.btn-investasi:hover{
+  text-decoration: none;
+  background-color: #11985E;
+  color:white;
+}
+
+.ungu{
+  height: 100%;
+  background-color: #00082D;
+}
+
+.detail-invest h1{
+  color:#00DCFF;
+}
+
+.hitam{
+  background-color: #09132E;
+  height: 300px;
+}
+
+.btn-modali{
+  background-color: #FFD500;
+  color: black;
+  border: 50% !important;
+}
+
+.btn-modali:hover{
+  background-color: #9B8307;
+  color: black;
+}
+
+.modali .a{
+  color:white;
+  margin-top: 5px;
+  text-decoration: underline;
+}
+
+.a:hover{
+  color:#DBDBDB;
+  margin-top: 5px;
+  text-decoration: underline;
+}
+
+.artikel{
+  min-height: 470px;
+  background-color: white;
+}
+
+.artikel-foto{
+  min-height: 360px;
+  background-image: url('/images/petani8.jpg');
+  background-size: cover;
+  margin-left: 10px;
+  width: 100%;
+  content: '';
+  
+}
+
+#detail-gambar{
+  height: 300px;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 30%;
+}
+
+.main-card{
+  min-height: 500px;
+  background-color: white;
+}
+
+.shadow{
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+}
+.main-card{
+  color:white
+}
+
+.btn-kirim{
+  background-color: #17D885;
+  color:white;
+  font-weight: bold;
+}
+
+.btn-kirim:hover{
+  background-color: #11985E;
+  color:white;
+  font-weight: bold;
+}
+
+.btn-upload{
+  background-color: #E9E200;
+  margin-left: 300px;
+  border-radius:10px;
+  color:#3E3E3E;
+  width: 40%;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+  margin-bottom:50px;
+}
+.btn-upload:hover{
+  background-color: #FFD500;
+  margin-left: 300px;
+  border-radius:10px;
+  color:#3E3E3E;
+  width: 40%;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+  margin-bottom: 50px;
+}
+
+.kanan{
+  overflow-y: scroll;
+}
+
+.team{
+  min-height: 1000px;
+  background-color: #17D885;
+}
